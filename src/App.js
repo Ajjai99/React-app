@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welome to React<code>src/App.js</code> 
+          Welome to dev React <code>src/App.js</code> 
         </p>
         <a
           className="App-link"
